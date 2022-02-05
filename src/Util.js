@@ -72,6 +72,26 @@ const Util = () => {
         color: ["#FFFFFF", "#6ACABC"],
         audio: "https://mp3.chillhop.com/serve.php/?mp3=8650",
       },
+      {
+        name: "Small Town Palm Trees",
+        artist: "Mama Aiuto",
+        cover:
+          "https://chillhop.com/wp-content/uploads/2021/01/6b1bb8736ee3e972747bc11f312e31cf7f5823e4-1024x1024.jpg",
+        id: uuidv4(),
+        active: false,
+        color: ["#913F1A", "#CAD35F"],
+        audio: "https://mp3.chillhop.com/serve.php/?mp3=12124",
+      },
+      {
+        name: "Snowstalgia",
+        artist: "Invention_",
+        cover:
+          "https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-1024x1024.jpg",
+        id: uuidv4(),
+        active: false,
+        color: ["#455B8E", "#BC922B"],
+        audio: "https://mp3.chillhop.com/serve.php/?mp3=24705",
+      },
     
   ];
 };
